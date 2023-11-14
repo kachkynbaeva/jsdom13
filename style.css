@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.container-wrap{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+body{
+    background-color: lightgrey;
+}
+h2{
+    text-align: center;
+    margin: 30px;
+}
+input{
+    padding: 5px 20px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+
+}
